@@ -12,7 +12,7 @@
 // 3. Floating WhatsApp button
 // 4. Link sosial media
 //
-const WHATSAPP_NUMBER = '6281234567890'; // ← GANTI NOMOR INI!
+const WHATSAPP_NUMBER = '62895403283416'; // ← GANTI NOMOR INI!
 
 // ========== GOOGLE MAPS CONFIGURATION ========== 
 // Untuk mengganti lokasi Google Maps:
