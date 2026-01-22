@@ -12,7 +12,7 @@
     --purple-lightest: #EDE9FE;
     --white: #FFFFFF;
     --black: #0F172A;
-    --gray-dark: #334155;
+    --gray-dark: #91216f;
     --gray: #64748B;
     --gray-light: #E2E8F0;
     --gradient-1: linear-gradient(135deg, #8B5CF6 0%, #EC4899 100%);
@@ -53,7 +53,7 @@ section {
     top: 0;
     left: 0;
     width: 100%;
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(0, 0, 0, 0.95);
     backdrop-filter: blur(20px);
     box-shadow: var(--shadow-sm);
     z-index: 1000;
